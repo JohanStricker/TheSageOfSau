@@ -1,0 +1,75 @@
+romulus:
+
+interaction with npcs:
+
+(positive repsonce)
+	-"uhh, tell me more"
+	-"interesting"
+	-"aha"
+	-"what..?"
+	-"can you plz move"
+	-""
+
+(negative responce)
+	-"shuuu shuu"
+	-"go away"
+	-"argh"
+	-"leave me alone"
+	-"MOVE!"
+	-"i cant help you, sausage damit"
+
+
+
+mulier:
+"did you milk the cow?"
+"where's the firewood?"
+have you seen my scarf?"
+
+
+
+molestus(penis):
+"hehh....hehh..."
+"turn around, spin a little"
+"oh i could jsut eat you"
+"soo delisious"
+
+
+
+mauris(shit):
+"aww shit, its an adventurer"
+"hey,hey,adveturer"
+"i have a quest, for you... adventurer"
+"can you get me a skin?"
+
+
+speculum(peanut):
+repeats
+says whatever the player says wiht a old man voice
+
+potator(potato):
+"can you help me?"
+"there was this dude"
+"he, he stole... uhm something"
+"can you please get it back for me"
+"pleeeeease"
+"pretty please"
+"i rly need that thing"
+"ahh he when that way"
+
+sordidus(mold spottted):
+"aw, i dropped it on the floor"
+"oh well still eatable"
+"uhh is that a peice of mold"
+"can i have that shroom"
+"come on, it looks so nice"
+
+lentus(frankfurter):
+"whaaat"
+"nah man"
+"huh?"
+"O.K."
+"huhuhuhuh"
+
+jehovah sausage:
+"Do you have a moment to talk about Jehovah's sausage?"
+"have you accepted the Jehovah's sausage as you lord and savior?"
