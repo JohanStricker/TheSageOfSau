@@ -11,17 +11,19 @@ location:
 -"as he decended from the mountains, heat and moisture filled the air"
 -"yet something seemed off, with the otherwise beautiful landscape of Sau"
 -"some of the boulders of Sau was not as rooted as others, maybe these could be used for something"
+-"a strange smell filled the air"(sordidus)
 
 
+npc introduction:
+-"as he moved through the area Romulus didnt notice a strange figure aproaching from behind"(molestus)
+-"a strange smell filled the air"(sordidus)
+-"in the distance a villager was a aproaching with certain haste"(potator)
 
 npc interaction:
--"as he moved through the area Romulus didnt notice a strange figure aproaching from behind"(molestus)
 -"the woman simply, would not stop asking questions"(mulier)
--"in the distance a villager was a aproaching with certain haste"(potator)
 -"the skin color of this villager, was quite unusual"(mauris)
 -"it did not matter what Romulus said, the old man always wanted the last word"(speculum)
 -"even though the size of the creature was grand, its intelect seemed... less grand"(lentus)
--"a strange smell filled the air"(sordidus)
 -"the preachings of this villager, would scare anyone away"(Jehovage)
 
 
