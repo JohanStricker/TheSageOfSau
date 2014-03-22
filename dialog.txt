@@ -1,52 +1,70 @@
 romulus:
 
-interaction with npcs:
-
-(positive repsonce)
-	-"uhh, tell me more"
-	-"interesting"
-	-"aha"
-	-"what..?"
-	-"can you plz move"
-	-""
-
-(negative responce)
-	-"shuuu shuu"
-	-"go away"
-	-"argh"
-	-"leave me alone"
-	-"MOVE!"
-	-"i cant help you, sausage damit"
+responce upon interaction with npcs:
+-"uhh, tell me more"
+-"interesting"
+-"aha"
+-"what..?"
+-"can you plz move"
+-"shuuu shuu"
+-"go away"
+-"argh"
+-"leave me alone"
+-"MOVE!"
+-"i cant help you, sausage damit"
 
 
 
 mulier:
+
+dialog:
 "did you milk the cow?"
 "where's the firewood?"
-have you seen my scarf?"
+"have you seen my scarf?"
+"you should eat more"
+"wheres the kitchen?"
+"hows mother doing?"
+"is the house cleaned?"
 
 
 
 molestus(penis):
+
+dialog:
 "hehh....hehh..."
 "turn around, spin a little"
 "oh i could jsut eat you"
 "soo delisious"
 
+behaviour:
+-humps the player
+
 
 
 mauris(shit):
+
+dialog:
 "aww shit, its an adventurer"
 "hey,hey,adveturer"
 "i have a quest, for you... adventurer"
 "can you get me a skin?"
+"I am MAURIS!!"
+
+behaviour:
+-leaves shit stains when moving
+
 
 
 speculum(peanut):
-repeats
-says whatever the player says wiht a old man voice
+
+behaviour:
+-repeats whatever the player says wiht a old man voice
+
+
 
 potator(potato):
+
+dialog:
 "can you help me?"
 "there was this dude"
 "he, he stole... uhm something"
@@ -56,20 +74,32 @@ potator(potato):
 "i rly need that thing"
 "ahh he when that way"
 
+
+
 sordidus(mold spottted):
+
+dialog:
 "aw, i dropped it on the floor"
 "oh well still eatable"
 "uhh is that a peice of mold"
 "can i have that shroom"
 "come on, it looks so nice"
 
+
+
 lentus(frankfurter):
+
+dialog:
 "whaaat"
 "nah man"
 "huh?"
 "O.K."
 "huhuhuhuh"
 
-jehovah sausage:
-"Do you have a moment to talk about Jehovah's sausage?"
-"have you accepted the Jehovah's sausage as you lord and savior?"
+
+
+Jehovage:
+
+dialog:
+"Do you have a moment to talk about Jehovage?"
+"have you accepted the Jehovage as you lord and savior?"
