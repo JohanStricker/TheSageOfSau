@@ -1,0 +1,32 @@
+The Sage of Sau
+
+Quest objective:
+-romulus embarces on a quest to find his father.
+-escape the npcs or kill them
+
+
+
+location:
+-"Romulus arrived in the land of Sua by the Brigde of Giants, the last know location of his father"
+-"as he decended from the mountains, heat and moisture filled the air"
+-"yet something seemed off, with the otherwise beautiful landscape of Sau"
+-"some of the boulders of Sau was not as rooted as others, maybe these could be used for something"
+
+
+
+npc interaction:
+-"as he moved through the area Romulus didnt notice a strange figure aproaching from behind"(molestus)
+-"the woman simply, would not stop asking questions"(mulier)
+-"in the distance a villager was a aproaching with certain haste"(potator)
+-"the skin color of this villager, was quite unusual"(mauris)
+-"it did not matter what Romulus said, the old man always wanted the last word"(speculum)
+-"even though the size of the creature was grand, its intelect seemed... less grand"(lentus)
+-"a strange smell filled the air"(sordidus)
+-"the preachings of this villager, would scare anyone away"(Jehovage)
+
+
+
+walking:
+-"after only a short while, his legs became weary"
+-"the roads of Sau was long and dreaded af romulus scuffeld along them"
+-"the land was rich with boulders, that appeared to pop up everywhere"

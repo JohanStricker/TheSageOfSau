@@ -25,7 +25,8 @@ dialog:
 "wheres the kitchen?"
 "hows mother doing?"
 "is the house cleaned?"
-
+behaviour:
+-is a woman
 
 
 molestus(penis):
