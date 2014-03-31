@@ -13,7 +13,7 @@ public class FirstStoryMoment : MonoBehaviour
 	void Start()
 	{
 		Invoke("StartGame", startGameTime);
-
+		
 	}
 
 	void StartGame()
@@ -22,6 +22,15 @@ public class FirstStoryMoment : MonoBehaviour
 		player.gameObject.SetActive(true);
 
 
+	}
+
+	void Update()
+	{
+		if (Input.GetKeyDown(KeyCode.Return)) {
+			StartGame();
+			audio.Stop();
+
+		}
 	}
 
 }

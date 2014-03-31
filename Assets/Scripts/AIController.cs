@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AIController : MonoBehaviour {
+public class AIController : MonoBehaviour
+{
 
 	public float rotationSpeed;
 	public float movementSpeed;
@@ -15,21 +16,26 @@ public class AIController : MonoBehaviour {
 	private Vector3 oldPos;
 
 	// Use this for initialization
-	void Start () {
+	void Start()
+	{
 		agent = GetComponent<NavMeshAgent>();
 		agent.updateRotation = true;
 		anim = GetComponent<Animator>();
+		target = GameObject.Find("Player").transform;
 
 	}
-	
+
 	// Update is called once per frame
-	void Update () {
+	void Update()
+	{
 
 		float speed = agent.velocity.magnitude / agent.speed;
 		anim.SetFloat("Speed", speed);
-		agent.SetDestination(target.position);
 
-		
+		if (target)
+			agent.SetDestination(target.position);
+
+
 	}
 
 }
