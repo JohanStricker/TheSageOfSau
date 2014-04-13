@@ -1,0 +1,35 @@
+Once upon a time, in the distant lands of Sau, there was a sage by the name of Romulus. The sage had a son named after his father, and they were very happy in their small village.
+
+One day, Romulus left his village, for a curse had infected the land, and the only one who could save them was the wise old sage. His son grew mature and never found out what happened to his father, for he never returned.
+
+The time came when the son decided to travel in search of his long gone father. He took to the mountains, across the Bridge of Giants, entering the vast unknown.
+
+<game start>
+
+When the player does nothing:
+===============================
+
+"Romulus stood still, considering his next move."
+
+"Romulus was standing and thinking."
+
+after a long halt: "Romulus was looking around like an idiot, not knowing what to do."
+
+"He took a halt, to analyze his surroundings."
+
+"His long halt was tiresome, as nothing around him had changed."
+
+"The novice was slow to think, as he was watching the grass grow."
+
+When the player moves:
+==================================
+
+"Step by step, he advanced in his path."
+
+"As he was traveling across the land, it was as if the land was moving below him and he was still."
+
+"Romulus was finding his way, and none stood before him."
+
+"Though the road was not so clear, Romulus marched on."
+
+"The novice wandered ahead, his destination unclear."
